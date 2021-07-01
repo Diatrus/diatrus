@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Procursus](https://github.com/ProcursusTeam/Procursus)
 
-- 👨‍💻 All of my projects are available at [https://diatr.us](https://diatr.us)
+- 👨‍💻 All of my projects are available on my GitHub
 
 - 📫 How to reach me **me@diatr.us**
 
